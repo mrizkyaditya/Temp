@@ -15,5 +15,5 @@ def pythagoras(a, b):
 
 # Tambahkan return untuk mengembalikan nilai c
 nilai = pythagoras(a, b)
-print(nilai)
+print(int(nilai))
 
