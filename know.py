@@ -13,7 +13,7 @@ Output:
 [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
 """
 
-arr = range(1, 100)
+arr = range(1, 20)
 
 # Menggunakan list comprehension untuk menyaring angka ganjil
 ganjil = [x for x in arr if x % 2 != 0]
