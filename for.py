@@ -12,7 +12,7 @@ while True:
     
     i += 1
     
-    if i > 100: 
+    if i >= 100: 
          
     # Kondisi untuk menghentikan loop
         break
