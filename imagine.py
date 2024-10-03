@@ -19,10 +19,10 @@ weight = 90
 Output:
 Kamu boleh menyeberang jembatan
 """
-weight = 90  
+weight = int(input("Masukkan berat badan kamu :")  
 
 # Contoh input berat badan
 if weight >= 90:
-    print("Kamu boleh menyeberang jembatan")
-else:
     print("Kamu tidak boleh menyeberang jembatan")
+else:
+    print("Kamu boleh menyeberang jembatan")
